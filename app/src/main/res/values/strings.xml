@@ -1,0 +1,20 @@
+<resources>
+    <string name="app">SpeedThrills</string>
+    <string name="background">Background</string>
+    <string name="about">A quick android app to check typing speed.
+        \n\nDisplays random 20 words, it matches expected input with actual input entered to check its correctness.
+        \n\nProject is totally open source, github and twitter handle is @SilverC0de
+        \n\nWritten in Java using Android Studio development environment - June 12, 2019</string>
+    <string name="start">Start Typing</string>
+    <string name="novice">Novice - </string>
+    <string name="amateur">Amateur - </string>
+    <string name="senior">Senior - </string>
+    <string name="enthusiast">Enthusiast - </string>
+    <string name="professional">Professional - </string>
+    <string name="expert">Expert - </string>
+    <string name="veteran">Veteran - </string>
+    <string name="master">Master - </string>
+    <string name="ultimate">Ultimate - </string>
+    <string name="ready">Get ready, words will appear here</string>
+    <string name="new_speed">New typing speed achieved (^_^)</string>
+</resources>

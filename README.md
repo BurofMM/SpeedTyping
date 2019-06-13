@@ -11,4 +11,5 @@ the timer ends when the last character of the words is entered correctly.
 
 So basically I'm using 2go's star progress to rank the words per minute, lmao.
 
+Android app is available offline at http://tiny.cc/speedthrill
 Just enjoy, nothing too fancy!

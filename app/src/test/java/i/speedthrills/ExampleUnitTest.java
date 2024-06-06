@@ -1,1 +1,1 @@
-package i.speedthrills;
+package i.speedtyping;

@@ -1,4 +1,4 @@
-package i.speedthrills;
+package i.speedtyping;
 
 import android.content.Intent;
 import android.os.Build;
